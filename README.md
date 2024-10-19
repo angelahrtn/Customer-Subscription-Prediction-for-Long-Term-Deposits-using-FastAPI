@@ -1,4 +1,4 @@
-# Customer-Subscription-Prediction-for-Long-Term-Deposits
+# Customer-Subscription-Prediction-for-Long-Term-Depositss
 # Project Overview
 This project is a final exam assignment for the Model Deployment course in the 4th semester. It focuses on predicting customer subscription for long-term deposits and deploying the prediction model using FastAPI. The goal of the project is to build a machine learning model that can predict whether a customer will subscribe to a long-term deposit plan based on various customer attributes such as age, job type, marital status, education, and previous interactions with the bank. The model is then deployed using FastAPI to allow external applications to make predictions via an API.
 
